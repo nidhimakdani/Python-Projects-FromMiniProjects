@@ -1,6 +1,6 @@
 # 45*3
 # 56+9
-# 56/6 This equetion must give wrong output
+# 56/6 This equations must give wrong output
 
 
 print("Enter 1st number")
